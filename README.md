@@ -34,11 +34,7 @@
   <a href="mailto:mjoshi1782@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 💭 Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/mihir1782">mihir1782</a></i></p>
