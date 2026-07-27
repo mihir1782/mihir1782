@@ -46,6 +46,3 @@
 </p>
 
 
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/mihir1782">mihir1782</a></i></p>
